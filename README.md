@@ -1,7 +1,11 @@
-# SavePoint
+# SavePoint 
 
-1- O que o sistema faz? Conquista de jogos
+## Integrantes
+- Caio Moraes da Silva
+- Otávio Alberto de Souza Palma
+- Paulo Henrique Vaz Coelho
+- Pedro Henrique Mendes de Souza
 
-2- Vocês já decidiram o formato de armazenamento? json
-
-3- Quantos integrantes tem o grupo e os nomes? 4. Caio Moraes da Silva, Otávio Alberto de Souza Palma, Paulo Henrique Vaz Coelho e Pedro Henrique Mendes de Souza.
+## Descrição
+Sistema desenvolvido em C# para catalogar jogos, registrar conquistas e 
+acompanhar estatísticas de progresso da biblioteca pessoal do jogador.
